@@ -1,3 +1,3 @@
-# Data
+# Notes
 
-To run analysis the following data needs to be downloaded into this folder: https://osf.io/mt2e3/
+All pre-processed data can be downloaded from: https://osf.io/mt2e3/
