@@ -6,5 +6,6 @@ Behavioral tracking data and pre-processed ephys data can be downloaded from: ht
 
 Requirements: 
 
-fieldtrip (Version used: 20240722)
-celremmc2
+- fieldtrip (Version used: 20240722)
+
+- celremmc2
